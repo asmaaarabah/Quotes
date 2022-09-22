@@ -1,0 +1,29 @@
+
+
+
+.text h1{
+    font-size: 70px;
+    font-weight: 900;
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+
+    text-align: center;
+}
+.text button{
+    outline-style: double;
+    background-color:teal;
+    color: white;
+    font-size: larger;
+    font-weight: 400;
+    
+    
+}
+.text p{
+    font-size: larger;
+    font-weight: 400;
+} 
